@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "692787863862",
+    "firebase_url": "https://nittshuttles-2e0dc.firebaseio.com",
+    "project_id": "nittshuttles-2e0dc",
+    "storage_bucket": "nittshuttles-2e0dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692787863862:android:ff7a0d88346c3954",
+        "android_client_info": {
+          "package_name": "com.navenallen.nittshuttledriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692787863862-nbfcb2448scfsdoi8s1bt4tlr9ssd87s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZYZtjD-3J7QPFtFUmtcHpB00Sjo-6Dg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692787863862:android:79a18461dae3937d",
+        "android_client_info": {
+          "package_name": "com.navenallen.nittshuttletracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692787863862-nbfcb2448scfsdoi8s1bt4tlr9ssd87s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZYZtjD-3J7QPFtFUmtcHpB00Sjo-6Dg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
